@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lab1_start.unity
     guid: a1037cd299cc78148acab7ec6c996b5c
+  - enabled: 1
+    path: Assets/Scenes/Lab1_forca.unity
+    guid: 2ad8e7531189f19479a6f0e96edb42d7
+  - enabled: 1
+    path: Assets/Scenes/Lab1_salvo.unity
+    guid: 738edc5114737374aa18671463bfb3eb
+  - enabled: 1
+    path: Assets/Scenes/Lab1_endGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

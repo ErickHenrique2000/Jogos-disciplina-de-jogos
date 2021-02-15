@@ -20,4 +20,13 @@ public class ManageBotoes : MonoBehaviour
     public void StartMundoGame() {
         SceneManager.LoadScene("Lab1");
     }
+
+    public void Fim() {
+        SceneManager.LoadScene("Lab1_endGame");
+    }
+
+    public void fechar() {
+        Application.Quit();
+        print("sai");
+    }
 }

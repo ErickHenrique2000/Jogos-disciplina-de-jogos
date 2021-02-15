@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -50,8 +51,7 @@ public class GameManager : MonoBehaviour
 
     void InitGame() {
 
-        int numeroAleatorio = Random.Range(0, palavrasOcultas.Length);
-        palavraOculta = palavrasOcultas[numeroAleatorio];
+        palavraOculta = PegaUmaPalavraDoArquivo();
         tamanhoPalavraOculta = palavraOculta.Length;
         palavraOculta = palavraOculta.ToUpper();
         letrasOcultas = new char[tamanhoPalavraOculta];
@@ -67,6 +67,7 @@ public class GameManager : MonoBehaviour
             if(letraTecladaComoInt >= 97 && letraTecladaComoInt <= 122) {
                 numTentativas++;
                 UpdateNumTentativas();
+
                 for (int i = 0 ; i < tamanhoPalavraOculta ; i++) {
                     if (!letrasDescobertas[i]) {
                         letraTeclada = System.Char.ToUpper(letraTeclada);
@@ -77,8 +78,13 @@ public class GameManager : MonoBehaviour
                             score++;
                             PlayerPrefs.SetInt("score", score);
                             UpdateScore();
+                            verificaSePalavraDescoberta();
                         }
                     }
+                }
+
+                if (numTentativas > maxNumTentativas) {
+                    SceneManager.LoadScene("Lab1_forca");
                 }
             }
         }
@@ -90,6 +96,25 @@ public class GameManager : MonoBehaviour
 
     void UpdateScore() {
         GameObject.Find("scoreUI").GetComponent<Text>().text = "Score " + score;
+    }
+
+    void verificaSePalavraDescoberta() {
+        bool condicao = true;
+        for(int i = 0; i < tamanhoPalavraOculta; i++) {
+            condicao = condicao && letrasDescobertas[i];
+        }
+        if (condicao) {
+            PlayerPrefs.SetString("ultimaPalavraOculta", palavraOculta);
+            SceneManager.LoadScene("Lab1_salvo");
+        }
+    }
+
+    string PegaUmaPalavraDoArquivo() {
+        TextAsset t1 = (TextAsset)Resources.Load("palavras", typeof(TextAsset));
+        string s = t1.text;
+        string[] palavras = s.Split(' ');
+        int palavraAleatoria = Random.Range(0, palavras.Length + 1);
+        return palavras[palavraAleatoria];
     }
 
 }
