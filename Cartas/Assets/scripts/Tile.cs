@@ -29,17 +29,18 @@ public class Tile : MonoBehaviour
         GameObject.Find("gameManage").GetComponent<ManageCartas>().CartaSelecionada(gameObject);
     }
 
-    public void EscondeCarta() {
+    public void EscondeCarta() {                                //troca o sprite da carta para o sprite da parte de tras da carta
         GetComponent<SpriteRenderer>().sprite = backCarta;
         tileRevelada = false;
     }
 
-    public void RevelaCarta() {
+    public void RevelaCarta() {                                 //troca o sprite da carta para o sprite de carta revelada
         GetComponent<SpriteRenderer>().sprite = originalCarta;
         tileRevelada = true;
     }
 
-    public void setCartaOriginal(Sprite s1) {
+    public void setCartaOriginal(Sprite s1, Sprite back) {      //recebe o sprite do verso e da frente da carta
         originalCarta = s1;
+        backCarta = back;
     }
 }

@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\Tile.cs" />
     <Compile Include="Assets\scripts\ManageCartas.cs" />
+    <Compile Include="Assets\scripts\ManageCenas.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
