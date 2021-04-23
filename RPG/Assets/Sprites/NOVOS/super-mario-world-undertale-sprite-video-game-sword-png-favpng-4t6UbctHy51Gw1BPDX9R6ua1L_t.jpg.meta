@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 761f1fab60aae55439610b480cc8d565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5508050772455942731
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_0
+  - first:
+      213: 4604995314688468292
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_1
+  - first:
+      213: 7547263819735260890
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_2
+  - first:
+      213: -6151688837061696692
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_3
+  - first:
+      213: 382108263148624337
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_4
+  - first:
+      213: 8015817638495775071
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_5
+  - first:
+      213: 7368358680020049560
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_6
+  - first:
+      213: -7578402814084403914
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_7
+  - first:
+      213: 6751828314875022104
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_8
+  - first:
+      213: -4624753672648328938
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_9
+  - first:
+      213: -3699644896976923389
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_10
+  - first:
+      213: 5591050847648775022
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_11
+  - first:
+      213: 2432443369976057120
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_12
+  - first:
+      213: -531757223386084807
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_13
+  - first:
+      213: -8311054698987124990
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_14
+  - first:
+      213: 5432245533497897855
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_15
+  - first:
+      213: -4106774755824088254
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_16
+  - first:
+      213: 2248322386487898488
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_17
+  - first:
+      213: 2044228906408108275
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_18
+  - first:
+      213: 2934002256705924472
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_19
+  - first:
+      213: -5219394449042146728
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_20
+  - first:
+      213: 1076361550527462497
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_21
+  - first:
+      213: 1389960004398109443
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_22
+  - first:
+      213: -6554843844280973159
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_23
+  - first:
+      213: -8858504629838662008
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_24
+  - first:
+      213: 715648521523081774
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_25
+  - first:
+      213: 4237085550701717583
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_26
+  - first:
+      213: -7486016549601852933
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_27
+  - first:
+      213: -7928731533707303762
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_28
+  - first:
+      213: 6941375425638694637
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_29
+  - first:
+      213: -8313399450541476755
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_30
+  - first:
+      213: 5003567577212967530
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_31
+  - first:
+      213: 646262365202774838
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_32
+  - first:
+      213: -8201928384493590082
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_33
+  - first:
+      213: 5367370122296764340
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_34
+  - first:
+      213: -8436868408724327221
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_35
+  - first:
+      213: -7074401349748109584
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_36
+  - first:
+      213: 2963644479910607145
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_37
+  - first:
+      213: -93604336455712798
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_38
+  - first:
+      213: -7755670705207710652
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_39
+  - first:
+      213: 5903398608090630786
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_40
+  - first:
+      213: 3698505846880197002
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_41
+  - first:
+      213: 4702530708627721239
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_42
+  - first:
+      213: -53714433256930980
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_43
+  - first:
+      213: -1393083895777791557
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_44
+  - first:
+      213: -2594066650455670681
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_45
+  - first:
+      213: 7264896168268989367
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_46
+  - first:
+      213: -9174222068905337287
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_47
+  - first:
+      213: -3581828058943016810
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_48
+  - first:
+      213: 4588980091259356427
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_49
+  - first:
+      213: 2552964787275154297
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_50
+  - first:
+      213: -9101951982238433554
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_51
+  - first:
+      213: 1881315239008039294
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_52
+  - first:
+      213: 467387693240062239
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_53
+  - first:
+      213: 4854472170082445948
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_54
+  - first:
+      213: -7312978095541412988
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_55
+  - first:
+      213: 4494354669763054368
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_56
+  - first:
+      213: -1794180459887582985
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_57
+  - first:
+      213: -9088133748662073230
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_58
+  - first:
+      213: 4342040659254154078
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_59
+  - first:
+      213: -2710879393054499828
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_60
+  - first:
+      213: 3186954998775660436
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_61
+  - first:
+      213: 3534365994923085623
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_62
+  - first:
+      213: -8105264102288909866
+    second: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6d01aef6807c40800000000000000
+      internalID: 5508050772455942731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445285427da38ef30800000000000000
+      internalID: 4604995314688468292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5a79f4744db860800000000000000
+      internalID: 7547263819735260890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a332889fc0aaa0800000000000000
+      internalID: -6151688837061696692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d917bad0758d4500800000000000000
+      internalID: 382108263148624337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e9de2ca7ed3f60800000000000000
+      internalID: 8015817638495775071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed2442e2ba14660800000000000000
+      internalID: 7368358680020049560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 253.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dadadeaca14d690800000000000000
+      internalID: -7578402814084403914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bcc84641053bd50800000000000000
+      internalID: 6751828314875022104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619fc18a90391dfb0800000000000000
+      internalID: -4624753672648328938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059a98519838acc0800000000000000
+      internalID: -3699644896976923389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b704f8f17679d40800000000000000
+      internalID: 5591050847648775022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4dab7b56c1c120800000000000000
+      internalID: 2432443369976057120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a03596f91de98f0800000000000000
+      internalID: -531757223386084807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207080ef8c339ac80800000000000000
+      internalID: -8311054698987124990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 217.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7338dc0886336b40800000000000000
+      internalID: 5432245533497897855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b40924e1ec107c0800000000000000
+      internalID: -4106774755824088254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717b236c45a33f10800000000000000
+      internalID: 2248322386487898488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f06a0e0c5f8e5c10800000000000000
+      internalID: 2044228906408108275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da629e18ba7b820800000000000000
+      internalID: 2934002256705924472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7232f66cf097b0800000000000000
+      internalID: -5219394449042146728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cf31d902100fe00800000000000000
+      internalID: 1076361550527462497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303562a72412a4310800000000000000
+      internalID: 1389960004398109443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 181.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9980a7fa0448805a0800000000000000
+      internalID: -6554843844280973159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886305939f4401580800000000000000
+      internalID: -8858504629838662008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ba65e98e7ee900800000000000000
+      internalID: 715648521523081774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48248cfbd62dca30800000000000000
+      internalID: 4237085550701717583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1494a5c935c1890800000000000000
+      internalID: -7486016549601852933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea420f5adac77f190800000000000000
+      internalID: -7928731533707303762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef1d13c28b45060800000000000000
+      internalID: 6941375425638694637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d643c8afe3fd0ac80800000000000000
+      internalID: -8313399450541476755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 145.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad071933e307540800000000000000
+      internalID: 5003567577212967530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7d95723cf7f800800000000000000
+      internalID: 646262365202774838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e0190795ec2e80800000000000000
+      internalID: -8201928384493590082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72b8d40babc7a40800000000000000
+      internalID: 5367370122296764340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47549f1e83aea80800000000000000
+      internalID: -8436868408724327221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe48b5447da2dd90800000000000000
+      internalID: -7074401349748109584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297e91d3faf02920800000000000000
+      internalID: 2963644479910607145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2effe181a5373bef0800000000000000
+      internalID: -93604336455712798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 109.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce03db5925e5490800000000000000
+      internalID: -7755670705207710652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a07caa1c51de150800000000000000
+      internalID: 5903398608090630786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89dff2e87bb35330800000000000000
+      internalID: 3698505846880197002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c0f11b3ceb24140800000000000000
+      internalID: 4702530708627721239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c86ee10b214ff0800000000000000
+      internalID: -53714433256930980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f8d1e395caace0800000000000000
+      internalID: -1393083895777791557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76007e71026000cd0800000000000000
+      internalID: -2594066650455670681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b305cfe29812d460800000000000000
+      internalID: 7264896168268989367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 73.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e195ca2ad9ea080800000000000000
+      internalID: -9174222068905337287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bc249b5aca4ec0800000000000000
+      internalID: -3581828058943016810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058adc54155faf30800000000000000
+      internalID: 4588980091259356427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973cd95a2f3fd6320800000000000000
+      internalID: 2552964787275154297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef30875ee5fa180800000000000000
+      internalID: -9101951982238433554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717a930e36cb1a10800000000000000
+      internalID: 1881315239008039294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1196f371ae7c7600800000000000000
+      internalID: 467387693240062239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa8c5f7bc8e5340800000000000000
+      internalID: 4854472170082445948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 37.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9a0dfa25138a90800000000000000
+      internalID: -7312978095541412988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b48d192c72f5e30800000000000000
+      internalID: 4494354669763054368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f02471b06ac917e0800000000000000
+      internalID: -1794180459887582985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27802cfa18670e180800000000000000
+      internalID: -9088133748662073230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53952779f6024c30800000000000000
+      internalID: 4342040659254154078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c5f0c0e85016ad0800000000000000
+      internalID: -2710879393054499828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbd29afa65a3c20800000000000000
+      internalID: 3186954998775660436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4c9185279c0130800000000000000
+      internalID: 3534365994923085623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-undertale-sprite-video-game-sword-png-favpng-4t6UbctHy51Gw1BPDX9R6ua1L_t_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1.75
+        width: 36.25
+        height: 36.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d918541e31548f80800000000000000
+      internalID: -8105264102288909866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

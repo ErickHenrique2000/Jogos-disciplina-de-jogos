@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: ef0f59b48de18e74f9e6c21adb5ea9c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8044854558032100955
+    second: AmnpQT_0
+  - first:
+      213: 5645090674806522017
+    second: AmnpQT_1
+  - first:
+      213: 4260598070910583796
+    second: AmnpQT_2
+  - first:
+      213: 8545284482661383903
+    second: AmnpQT_3
+  - first:
+      213: -272375785159557509
+    second: AmnpQT_4
+  - first:
+      213: 8112401025812905344
+    second: AmnpQT_5
+  - first:
+      213: 7468763901807248034
+    second: AmnpQT_6
+  - first:
+      213: -5120167222482319095
+    second: AmnpQT_7
+  - first:
+      213: 152170698973042513
+    second: AmnpQT_8
+  - first:
+      213: 7047137089410027567
+    second: AmnpQT_9
+  - first:
+      213: -3515588516316850605
+    second: AmnpQT_10
+  - first:
+      213: -2863095312987585234
+    second: AmnpQT_11
+  - first:
+      213: -1947580254471866050
+    second: AmnpQT_12
+  - first:
+      213: -5677539154254093440
+    second: AmnpQT_13
+  - first:
+      213: -582007952814798641
+    second: AmnpQT_14
+  - first:
+      213: 2362353371883476992
+    second: AmnpQT_15
+  - first:
+      213: 8921438306975130575
+    second: AmnpQT_16
+  - first:
+      213: 6440868514925874863
+    second: AmnpQT_17
+  - first:
+      213: -8633828342977731624
+    second: AmnpQT_18
+  - first:
+      213: 1499213340845092642
+    second: AmnpQT_19
+  - first:
+      213: -2178723771726579925
+    second: AmnpQT_20
+  - first:
+      213: 3944386287892097413
+    second: AmnpQT_21
+  - first:
+      213: 4771183684254246924
+    second: AmnpQT_22
+  - first:
+      213: 8224167354918150906
+    second: AmnpQT_23
+  - first:
+      213: 5026821873181987978
+    second: AmnpQT_24
+  - first:
+      213: -5635057269430635442
+    second: AmnpQT_25
+  - first:
+      213: 2313593952183669742
+    second: AmnpQT_26
+  - first:
+      213: -9103640022115223885
+    second: AmnpQT_27
+  - first:
+      213: -8784624542572304701
+    second: AmnpQT_28
+  - first:
+      213: 5289279401887292604
+    second: AmnpQT_29
+  - first:
+      213: 7933683253253374910
+    second: AmnpQT_30
+  - first:
+      213: 8625351065047325590
+    second: AmnpQT_31
+  - first:
+      213: 4642811042696988700
+    second: AmnpQT_32
+  - first:
+      213: 1578494554730478415
+    second: AmnpQT_33
+  - first:
+      213: -6328221682678106069
+    second: AmnpQT_34
+  - first:
+      213: -7397094286771705870
+    second: AmnpQT_35
+  - first:
+      213: -2573405977913491555
+    second: AmnpQT_36
+  - first:
+      213: -682320634183960937
+    second: AmnpQT_37
+  - first:
+      213: -5757417220298641083
+    second: AmnpQT_38
+  - first:
+      213: 6680330847863791853
+    second: AmnpQT_39
+  - first:
+      213: -5136220242462128736
+    second: AmnpQT_40
+  - first:
+      213: -5068039990588715370
+    second: AmnpQT_41
+  - first:
+      213: 4540738715253994933
+    second: AmnpQT_42
+  - first:
+      213: -1947972740353914719
+    second: AmnpQT_43
+  - first:
+      213: 2382120769686926101
+    second: AmnpQT_44
+  - first:
+      213: 4290979334497803760
+    second: AmnpQT_45
+  - first:
+      213: 931714764691010967
+    second: AmnpQT_46
+  - first:
+      213: 8699016008918133577
+    second: AmnpQT_47
+  - first:
+      213: 826846894510396037
+    second: AmnpQT_48
+  - first:
+      213: 769136532644249360
+    second: AmnpQT_49
+  - first:
+      213: 5292660626920312599
+    second: AmnpQT_50
+  - first:
+      213: 5856701018437680208
+    second: AmnpQT_51
+  - first:
+      213: 3945011021857394484
+    second: AmnpQT_52
+  - first:
+      213: -8866380465784136931
+    second: AmnpQT_53
+  - first:
+      213: 1674065298891399844
+    second: AmnpQT_54
+  - first:
+      213: 171991196035452573
+    second: AmnpQT_55
+  - first:
+      213: -8715941275597842136
+    second: AmnpQT_56
+  - first:
+      213: 5630445835105579769
+    second: AmnpQT_57
+  - first:
+      213: -7415243680836431261
+    second: AmnpQT_58
+  - first:
+      213: 871443955260522398
+    second: AmnpQT_59
+  - first:
+      213: -4883487406849726445
+    second: AmnpQT_60
+  - first:
+      213: -1009139653992671857
+    second: AmnpQT_61
+  - first:
+      213: -2424673976284861641
+    second: AmnpQT_62
+  - first:
+      213: -2940900365136265376
+    second: AmnpQT_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmnpQT_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7f29d89015af60800000000000000
+      internalID: 8044854558032100955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a086bc4f04675e40800000000000000
+      internalID: 5645090674806522017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f307533f5fa02b30800000000000000
+      internalID: 4260598070910583796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde70bd46f2f69670800000000000000
+      internalID: 8545284482661383903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e7520aaa3583cf0800000000000000
+      internalID: -272375785159557509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08db71b60c9059070800000000000000
+      internalID: 8112401025812905344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a24b7e823166a760800000000000000
+      internalID: 7468763901807248034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 303.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c759f90381f8b0800000000000000
+      internalID: -5120167222482319095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d289c17e9c1200800000000000000
+      internalID: 152170698973042513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d3c178d57cc160800000000000000
+      internalID: 7047137089410027567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356dd7ceede163fc0800000000000000
+      internalID: -3515588516316850605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250a4f6bfd3448d0800000000000000
+      internalID: -2863095312987585234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b3a8c31ec8f4e0800000000000000
+      internalID: -1947580254471866050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083205858345531b0800000000000000
+      internalID: -5677539154254093440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8850cb9da4ce7f0800000000000000
+      internalID: -582007952814798641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 260.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0089f0d10e3c8c020800000000000000
+      internalID: 2362353371883476992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a0d45fd05fcb70800000000000000
+      internalID: 8921438306975130575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae87250acf826950800000000000000
+      internalID: 6440868514925874863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ec15bdda7e2880800000000000000
+      internalID: -8633828342977731624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f299f17964ec410800000000000000
+      internalID: 1499213340845092642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b982e54e93c1e0800000000000000
+      internalID: -2178723771726579925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589eaba3e664db630800000000000000
+      internalID: 3944386287892097413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082d123846a63240800000000000000
+      internalID: 4771183684254246924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 217.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2a243c2ac122270800000000000000
+      internalID: 8224167354918150906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841d244cdbd2c540800000000000000
+      internalID: 5026821873181987978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ba9ee4414cc1b0800000000000000
+      internalID: -5635057269430635442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3566a01798b1020800000000000000
+      internalID: 2313593952183669742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6face02af59a180800000000000000
+      internalID: -9103640022115223885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6acce758eb61680800000000000000
+      internalID: -8784624542572304701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc584b979b476940800000000000000
+      internalID: 5289279401887292604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb302a662ea1a1e60800000000000000
+      internalID: 7933683253253374910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 174.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bde27381763b770800000000000000
+      internalID: 8625351065047325590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18073f6b049e6040800000000000000
+      internalID: 4642811042696988700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b399e2f60f7e510800000000000000
+      internalID: 1578494554730478415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fb0078e3ad28a0800000000000000
+      internalID: -6328221682678106069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a6ea00fd385990800000000000000
+      internalID: -7397094286771705870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7997c5ec694cd0800000000000000
+      internalID: -2573405977913491555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796bb809ff8e786f0800000000000000
+      internalID: -682320634183960937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f160da8b8910b0800000000000000
+      internalID: -5757417220298641083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 131.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de06101238d45bc50800000000000000
+      internalID: 6680330847863791853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5cfdff6ea78b8b0800000000000000
+      internalID: -5136220242462128736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e4c7dea74baa9b0800000000000000
+      internalID: -5068039990588715370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f39cbdc1f30f30800000000000000
+      internalID: 4540738715253994933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88f0b0d1967f4e0800000000000000
+      internalID: -1947972740353914719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513f441183efe0120800000000000000
+      internalID: 2382120769686926101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_45
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd984b58fe9c8b30800000000000000
+      internalID: 4290979334497803760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f46d54ad1eec00800000000000000
+      internalID: 931714764691010967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 88.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b600388fc19b870800000000000000
+      internalID: 8699016008918133577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825de6aedc897b00800000000000000
+      internalID: 826846894510396037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3904f9958caa00800000000000000
+      internalID: 769136532644249360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f08486cce437940800000000000000
+      internalID: 5292660626920312599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c75afcb8e274150800000000000000
+      internalID: 5856701018437680208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f8fc07f9e7fb630800000000000000
+      internalID: 3945011021857394484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b597541f944f480800000000000000
+      internalID: -8866380465784136931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2ea3f05897b3710800000000000000
+      internalID: 1674065298891399844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 45.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e0030e419036200800000000000000
+      internalID: 171991196035452573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82953d0c691ca0780800000000000000
+      internalID: -8715941275597842136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2bb88d7ac532e40800000000000000
+      internalID: 5630445835105579769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d8c0f823c71990800000000000000
+      internalID: -7415243680836431261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ff6f209adf71c00800000000000000
+      internalID: 871443955260522398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e0a9c31e5a3cb0800000000000000
+      internalID: -4883487406849726445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_61
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f859103d4d0def1f0800000000000000
+      internalID: -1009139653992671857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b28637dd3d95ed0800000000000000
+      internalID: -2424673976284861641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmnpQT_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2.625
+        width: 43.375
+        height: 43.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7c3013b2df27d0800000000000000
+      internalID: -2940900365136265376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
